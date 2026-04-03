@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there,Im Nevins Symons
 
 <!--
 **symonssawo-cpu/Symonssawo-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+im currently a Computer Technology student atJKUAT workiubg on buildibg my computing skills with a deep intrest in philosophy and music. 
